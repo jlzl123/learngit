@@ -13,3 +13,4 @@ Creating a new branch is quick AND simple.
 add commit
 no commit
 test no commit
+test commit
