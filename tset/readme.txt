@@ -15,5 +15,9 @@ no commit
 test no commit
 test commit
 
+<<<<<<< Updated upstream
 bugbugbug
 repair bug
+=======
+bugbugbug
+>>>>>>> Stashed changes
